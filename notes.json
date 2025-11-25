@@ -1,0 +1,9 @@
+{
+  "message": "Login successful",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MjQ3OWU2NTZhNTFhNjZlMWJkMTUzNCIsImlhdCI6MTc2NDA4OTIwMSwiZXhwIjoxNzY0Njk0MDAxfQ.qfcSqb36FUH4EHmWGxvWWzN_BOfbIT3p7SMbh9Ab1XE",
+  "user": {
+    "id": "692479e656a51a66e1bd1534",
+    "name": "Jyotiraditya",
+    "email": "jyotiradityagautam@gmail.com"
+  }
+}
